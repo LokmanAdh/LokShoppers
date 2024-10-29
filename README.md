@@ -33,4 +33,4 @@ IDE Compatibility: A compatible IDE, with IntelliJ IDEA recommended for best res
 ## License
 
 This project is licensed under the MIT License - see
-the [LICENSE.md](https://https://github.com/LokmanAdh/LokShoppers/LICENSE) for details.
+the [MIT License](./LICENSE) for details.
